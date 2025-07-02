@@ -29,7 +29,7 @@ Export data from SQL tables (`Customers`, `Products`) to three formats: CSV, Par
 
 ### Output : 
 
-(Screenshots/Export_format/Output_of_format_files.png)
+![Screenshots](Screenshots/Export_format/Output_of_format_files.png)
 
 ---
 
@@ -51,13 +51,13 @@ Automate the pipeline from Task 1 using:
 
 ### Event Triggers :
 
-(Screenshots/Triggers/Event_Trigger.png)
+![Screenshots](Screenshots/Triggers/Event_Trigger.png)
 
 ---
 
 ### Schedule Trigger : 
 
-(Screenshots/Triggers/Schedule_Trigger.png)
+![Screenshots](Screenshots/Triggers/Schedule_Trigger.png)
 
 ---
 ## ✅ Task 3: Copy All Tables from One Database to Another
@@ -77,7 +77,7 @@ Replicate all base tables from `customerdb` to `customerdb_copy`.
 
 ### Pipeline :
 
-(Screenshots/All_Pipeline/CopyAllTablesPipeline.png)
+![Screenshots](Screenshots/All_Pipeline/CopyAllTablesPipeline.png)
 
 ---
 
@@ -101,11 +101,11 @@ Use a JSON config file to copy **specific tables and columns** only (e.g., `Cust
 
 ### 📸 Screenshots
 
-(Screenshots/All_Pipeline/SelectiveCopyPipeline.png)
+![Screenshots](Screenshots/All_Pipeline/SelectiveCopyPipeline.png)
 
 ---
 
-(Screenshots/Selective_Data/Selective_Output.png)
+![Screenshots](Screenshots/Selective_Data/Selective_Output.png)
 
 ---
 
