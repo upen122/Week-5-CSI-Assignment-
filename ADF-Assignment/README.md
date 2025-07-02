@@ -27,6 +27,12 @@ Export data from SQL tables (`Customers`, `Products`) to three formats: CSV, Par
 
 ---
 
+### Output : 
+
+(Screenshots/Export_format/Output_of_format_files.png)
+
+---
+
 ## ✅ Task 2: Configure Schedule and Event Triggers
 
 ### 🔍 Objective
@@ -43,15 +49,17 @@ Automate the pipeline from Task 1 using:
 
 ### 📸 Screenshots
 
-> *(Add these under `/screenshots/triggers/`)*
+### Event Triggers :
 
-* `schedule_trigger.png` – Setup of daily trigger
-* `event_trigger_register.png` – Event Grid registration view
-* `trigger_pipeline_binding.png` – Pipeline linked to trigger
-* `trigger_run_history.png` – Proof of trigger execution
+(Screenshots/Triggers/Event_Trigger.png)
 
 ---
 
+### Schedule Trigger : 
+
+(Screenshots/Triggers/Schedule_Trigger.png)
+
+---
 ## ✅ Task 3: Copy All Tables from One Database to Another
 
 ### 🔍 Objective
@@ -67,15 +75,17 @@ Replicate all base tables from `customerdb` to `customerdb_copy`.
 
 ### 📸 Screenshots
 
-> *(Add these under `/screenshots/full_db_copy/`)*
+### Pipeline :
 
-* `lookup_tables_activity.png` – `INFORMATION_SCHEMA.TABLES` lookup
-* `foreach_loop_all_tables.png` – ForEach config
-* `dynamic_datasets_all_tables.png` – Parameterized source/sink datasets
-* `destination_db_verify.png` – Destination tables seen in SSMS or Query Editor
+(Screenshots/All_Pipeline/CopyAllTablesPipeline.png)
 
 ---
 
+### Output :
+
+(Screenshots)
+
+---
 ## ✅ Task 4: Selective Copy (Specific Tables and Columns)
 
 ### 🔍 Objective
@@ -91,24 +101,11 @@ Use a JSON config file to copy **specific tables and columns** only (e.g., `Cust
 
 ### 📸 Screenshots
 
-> *(Add these under `/screenshots/selective_copy/`)*
-
-* `config_json_blob.png` – JSON file stored in Blob
-* `json_dataset.png` – Dataset pointing to JSON file
-* `pipeline_selective_copy.png` – Full pipeline showing dynamic query
-* `destination_verify_selective.png` – Destination table preview
+(Screenshots/All_Pipeline/SelectiveCopyPipeline.png)
 
 ---
 
-## 🧠 Optional: Additional ADF Components
-
-> *(Useful if shown in your pipeline)*
-
-### 📸 Screenshots
-
-* `integration_runtime.png` – Auto or SHIR used
-* `linked_services.png` – SQL + Blob linked services
-* `monitor_pipeline_runs.png` – Pipeline execution history tab
+(Screenshots/Selective_Data/Selective_Output.png)
 
 ---
 
