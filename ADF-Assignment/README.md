@@ -101,32 +101,17 @@ Use a JSON config file to copy **specific tables and columns** only (e.g., `Cust
 
 ### 📸 Screenshots
 
+### Pipeline: 
+
 ![Screenshots](Screenshots/All_Pipeline/SelectiveCopyPipeline.png)
 
 ---
+### Output : 
 
 ![Screenshots](Screenshots/Selective_Data/Selective_Output.png)
 
 ---
 
-## 📁 Folder Structure (Recommendation)
-
-```bash
-├── README.md
-├── pipelines/
-│   ├── ExportCustomerProductToFormats.json
-│   ├── FullDBCopyPipeline.json
-│   ├── SelectiveCopyPipeline.json
-├── screenshots/
-│   ├── export_formats/
-│   ├── triggers/
-│   ├── full_db_copy/
-│   ├── selective_copy/
-├── config/
-│   └── config.json
-```
-
----
 
 ## 🔚 Final Note
 
