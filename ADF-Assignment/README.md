@@ -121,7 +121,8 @@ Use a JSON config file to copy **specific tables and columns** only (e.g., `Cust
 
 ### Pipeline JSON:
 
-[View Selective Copy Pipeline JSON](ADF-Assignment/SelectiveCopy_Pipeline.json)
+[View Selective Copy Pipeline JSON]([Link](ADF-Assignment/SelectiveCopy_Pipeline.json)
+)
 
 
 ---
