@@ -87,7 +87,7 @@ Replicate all base tables from `customerdb` to `customerdb_copy`.
 
 ### Original Database :
 
-![Screenshots](ADF-Assignment/Screenshots/Copy_All_Data_To_Another_DB/CustomerDB.png)
+![Screenshots](Screenshots/Copy_All_Data_To_Another_DB/CustomerDB.png)
 
 ---
 
