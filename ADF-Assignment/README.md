@@ -85,9 +85,18 @@ Replicate all base tables from `customerdb` to `customerdb_copy`.
 
 ### Output :
 
-![Screenshots](Screenshots/Copy_All_Data_To_Another_DB/Copy_All_Data_Pipeline_OUTPUT.png)
+### Original Database :
+
+![Screenshots](ADF-Assignment/Screenshots/Copy_All_Data_To_Another_DB/CustomerDB.png)
 
 ---
+
+### Copy Database :
+
+![Screenshots](Screenshots/Copy_All_Data_To_Another_DB/Customer_db_Copy.png)
+
+---
+
 ## ✅ Task 4: Selective Copy (Specific Tables and Columns)
 
 ### 🔍 Objective
