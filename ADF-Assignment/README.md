@@ -1,5 +1,5 @@
 
-# 🚀 Azure Data Factory Assignment – CSI Internship 2025
+# 🚀 WEEK 5 ASSIGNMENT : AZURE ADF PIPELINE -
 
 This project demonstrates four practical data integration tasks using **Azure Data Factory**. Each task includes detailed pipeline design, screenshots, triggers, and explanations.
 
@@ -24,6 +24,10 @@ Export data from SQL tables (`Customers`, `Products`) to three formats: CSV, Par
 ### Pipeline :
 
 ![Screenshots](Screenshots/All_Pipeline/ExportCustomerProductToFormat.png)
+
+###  Pipeline JSON :
+
+📄 [pipeline.json](ADF-assignment/ExportCustomerProductToFormat.json)
 
 ---
 
