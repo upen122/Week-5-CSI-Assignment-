@@ -27,7 +27,7 @@ Export data from SQL tables (`Customers`, `Products`) to three formats: CSV, Par
 
 ###  Pipeline JSON :
 
-📄 [Full Pipeline.json](ExportCustomerProductToFormat.json)
+📄 [Full Pipeline.json](ADF-Assignment/ExportCustomerProductToFormats.json)
 
 ---
 
