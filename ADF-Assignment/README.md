@@ -117,6 +117,11 @@ Use a JSON config file to copy **specific tables and columns** only (e.g., `Cust
 ![Screenshots](Screenshots/All_Pipeline/SelectiveCopyPipeline.png)
 
 ---
+### Config_JSON :
+
+![Screenshots](Screenshots/Selective_Data/Config_JSON.png)
+
+---
 
 ### Output : 
 
