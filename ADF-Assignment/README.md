@@ -25,10 +25,6 @@ Export data from SQL tables (`Customers`, `Products`) to three formats: CSV, Par
 
 ![Screenshots](Screenshots/All_Pipeline/ExportCustomerProductToFormat.png)
 
-###  Pipeline JSON :
-
-📄 [Full Pipeline.json](ADF-Assignment/ExportCustomerProductToFormats.json)
-
 ---
 
 ### Output : 
@@ -87,12 +83,6 @@ Replicate all base tables from `customerdb` to `customerdb_copy`.
 
 ---
 
-### Pipeline Json:
-
-[Full Pipeline.json](ADF-assignment/CopyAllTables_Pipeline.json)
-
----
-
 ### Output :
 
 (Screenshots)
@@ -116,13 +106,6 @@ Use a JSON config file to copy **specific tables and columns** only (e.g., `Cust
 ### Pipeline: 
 
 ![Screenshots](Screenshots/All_Pipeline/SelectiveCopyPipeline.png)
-
----
-
-### Pipeline JSON:
-
-[View Selective Copy Pipeline JSON](ADF-Assignment/SelectiveCopy_Pipeline.json)
-
 
 ---
 
