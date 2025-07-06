@@ -85,7 +85,7 @@ Replicate all base tables from `customerdb` to `customerdb_copy`.
 
 ### Output :
 
-(Screenshots)
+![Screenshots](Screenshots/Copy_All_Data_To_Another_DB/Copy_All_Data_Pipeline_OUTPUT.png)
 
 ---
 ## ✅ Task 4: Selective Copy (Specific Tables and Columns)
